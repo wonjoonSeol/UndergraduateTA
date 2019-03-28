@@ -8,7 +8,7 @@ You have to compete with PhDs. The department will always favour PhDs and Master
 
 So it helps to have relevant work experience for the module, great grades (Should be high first or module lecturer really likes you) and of course, luck. I really wanted to do become TA for PEP module this year, but despite getting 100% + 3% bonus mark in the module, I wasn't able to do it.
 
-When you are applying for TA position through a [TA management portal](https://nms.kcl.ac.uk/christopher.hampson/ta_allocation) make sure to write compelling supporting statement why you would be suitable TA for that particular module, similar to your job application.
+When you are applying for TA position through [TA management portal](https://nms.kcl.ac.uk/christopher.hampson/ta_allocation) make sure to write compelling supporting statement why you would be suitable TA for that particular module, similar to your job application.
 
 Dr Jeroen mentioned during the SSLC meeting that he wants to increase more capable undergraduate TAs so it might become easier in future.
 
