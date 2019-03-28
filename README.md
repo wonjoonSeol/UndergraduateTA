@@ -55,6 +55,8 @@ I will share it here.
 
 #### 6CCS3AMS Agents and Multi-Agents
 
+I haven't done these modules but here are my thoughts on these:
+
 #### 6CCS3AIN Artificial Intelligence 
 
 ### Term 2 Optional modules
