@@ -4,7 +4,7 @@
 
 It's hard. 
 
-You have to compete with phds. 
+You have to compete with PhDs. 
 The department will always favor Phds and Masters students over undergrads.
 
 So it helps to have relevent work experience for the module, great grades (Should be high first or module lecturer really likes you) and of course, luck. I really wanted to do become TA for PEP module this year but despite getting 100% + 3% bonus mark in the module I wasn't able to do it. 
