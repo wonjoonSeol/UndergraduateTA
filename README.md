@@ -23,6 +23,8 @@ Project management, Requirement Analysis -
 Design patterns using Ray Tracer example - 
 Testing strategy -
 
+*Note: I have removed my own CW shown during the session :)*
+
 ## Introduction To Artificial Intelligence (4CCS1IAI)
 Actually, I wasn't TA for this module but I created mindmap for my own revision which my peers also found it very useful.
 
