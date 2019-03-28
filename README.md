@@ -17,8 +17,16 @@ https://wonjoonseol.github.io/assets/Introduction%20to%20AI/Introduction%20to%20
 Editable files attached in the repository.
 I used **IthoughtX** to create the mindmap (Commercial)
 
+
+
+
+
+----- To be added ----
+Will add after final undergraduate project deadline.
+
 ## Internet Systems (5CCS3INS & 6CCS3INS)
--
+NA
+
 
 ## Module selection advice for 3rd ~ Msci year students (2019)
 
@@ -41,3 +49,9 @@ I will share it here.
 #### 6CCS3BIM Biologically Inspired Methods
 
 #### 6CCS3PRE Pattern Recognition 
+
+
+## Hackathon / Competitions I participated while at king's
+
+
+## My general advice for King's undergradute Year 1 and 2 (AKA. How to be successful at King's BSc Computer Science)?
