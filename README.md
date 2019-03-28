@@ -11,7 +11,7 @@ So it helps to have relevent work experience for the module, great grades (Shoul
 
 When you are applying for TA position though a TA managment portal (https://nms.kcl.ac.uk/christopher.hampson/ta_allocation/login.php) make sure to write compelling supporting statement why you would be suitable TA for such module, similar to your job application.
 
-Dr. Jeroen mentioned during the SSLC meeting that he wants to increase more capable undergraduate TAs in the future so it can be 
+Dr. Jeroen mentioned during the SSLC meeting that he wants to increase more capable undergraduate TAs so it *might* become easier in future.
 
 For SGTs, my case was extremely rare because the department actually has a policy to only let PhD students lead a class. I believe Dr. Zschaler made an exception for my case.
 
