@@ -31,12 +31,9 @@ Actually, I wasn't TA for this module but I created mindmap for my own revision 
 View mind map online:
 https://wonjoonseol.github.io/assets/Introduction%20to%20AI/Introduction%20to%20AI.html
 
-Editable files attached in the repository.
+You will have better viewing experience if you use this editable local file instead.
+https://github.com/wonjoonSeol/UndergraduateTA/blob/master/Introduction%20to%20AI/Introduction%20to%20AI.itmz
 I used **IthoughtX** to create the mindmap (Commercial)
-
-
-
-
 
 ----- To be added ----
 Will add after final undergraduate project deadline.
