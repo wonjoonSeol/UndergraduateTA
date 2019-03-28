@@ -1,9 +1,13 @@
 # Undergraduate TA 2019
 
 *FAQ: How do you become an undergraduate TA?*
+
 It's hard. 
-You have to compete with phds. The department will always favor Phds and Masters students over undergrads.
+
+You have to compete with phds. 
+The department will always favor Phds and Masters students over undergrads.
 So it helps to have relevent work experience for the module, great grades (Should be high first) and of course, luck.
+
 I really wanted to do become TA for PEP module this year but despite getting 100% in the module I wasn't able to do it :'(
 
 When you are applying for TA position though a TA managment portal (https://nms.kcl.ac.uk/christopher.hampson/ta_allocation/login.php) make sure to write compelling supporting statement why you would be suitable TA for such module, similar to your job application.
