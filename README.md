@@ -37,7 +37,7 @@ I used **IthoughtX** to create the mindmap (Commercial)
 If you have that you will have much better viewing experience by downloading this editable [local file](https://github.com/wonjoonSeol/UndergraduateTA/blob/master/Introduction%20to%20AI/Introduction%20to%20AI.itmz) instead.
 
 
------ To be added ----
+# ----- To be added ----
 Will add after final undergraduate project deadline.
 
 ## Internet Systems (5CCS3INS & 6CCS3INS)
