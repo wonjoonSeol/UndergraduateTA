@@ -28,7 +28,7 @@ Will add after final undergraduate project deadline.
 NA
 
 
-## Module selection advice for 3rd ~ Msci year students (2019)
+## Module selection advice for 3rd ~ MSci year students (2019)
 
 A lot of students have been asking me on my views for 3rd and Msci modules,
 I will share it here. 
@@ -51,7 +51,7 @@ I will share it here.
 #### 6CCS3PRE Pattern Recognition 
 
 
-## Hackathon / Competitions I participated while at king's
+## Hackathon / Competitions I participated while at King's
 
 
 ## My general advice for King's undergradute Year 1 and 2 (AKA. How to be successful at King's BSc Computer Science)?
