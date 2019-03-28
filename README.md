@@ -30,11 +30,11 @@ Testing strategy - [Powerpoint Slide](https://github.com/wonjoonSeol/Undergradua
 ## Introduction To Artificial Intelligence (4CCS1IAI)
 Actually, I wasn't TA for this module but I created mindmap for my own revision which my peers also found it very useful.
 
-View mind map online [here](https://wonjoonseol.github.io/assets/Introduction%20to%20AI/Introduction%20to%20AI.html)
-
-You will have better viewing experience if you download this editable [local file](https://github.com/wonjoonSeol/UndergraduateTA/blob/master/Introduction%20to%20AI/Introduction%20to%20AI.itmz) instead.
+[View mind map online here](https://wonjoonseol.github.io/assets/Introduction%20to%20AI/Introduction%20to%20AI.html)
 
 I used **IthoughtX** to create the mindmap (Commercial)
+If you have that you will have much better viewing experience by downloading this editable [local file](https://github.com/wonjoonSeol/UndergraduateTA/blob/master/Introduction%20to%20AI/Introduction%20to%20AI.itmz) instead.
+
 
 ----- To be added ----
 Will add after final undergraduate project deadline.
